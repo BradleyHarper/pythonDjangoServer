@@ -1,0 +1,19 @@
+{
+  "name": "djangotest",
+  "version": "1.0.0",
+  "description": "Test django back end server",
+  "main": "api.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BradleyHarper/pythonDjangoServer.git"
+  },
+  "author": "Bradley C Harper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BradleyHarper/pythonDjangoServer/issues"
+  },
+  "homepage": "https://github.com/BradleyHarper/pythonDjangoServer#readme"
+}
